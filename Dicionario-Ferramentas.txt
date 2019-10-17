@@ -12,3 +12,4 @@ sempre que o arquivo for salvo.
 * jsonwebtoken > Para geração de jwt para autenticação
 * bcryptjs > Para criptografar senhas antes de armazená-las
 * yup > Para validar schema de um objeto de forma declarativa
+* multer > Para upload de arquivos
