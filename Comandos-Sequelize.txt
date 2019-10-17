@@ -1,0 +1,17 @@
+//Criar arquivo de migração
+yarn sequelize migration:create --name=nome-da-migration
+
+//Rodar migração
+yarn sequelize db:migrate
+
+//Desfazer última migração
+yarn sequelize db:migrate:undo
+
+//Desfazer todas as migrações
+yarn sequelize db:migrate:undo:all
+
+//Criar arquivo de seed (para insersão automática de dados de teste, ou dados default de um DB)
+yarn sequelize seed:generate --name admin-user
+
+//Executa os arquivos de seeds (insere de fato os registros no DB)
+yarn sequelize db:seed:all
