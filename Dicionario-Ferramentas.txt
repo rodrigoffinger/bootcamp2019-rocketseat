@@ -13,3 +13,4 @@ sempre que o arquivo for salvo.
 * bcryptjs > Para criptografar senhas antes de armazená-las
 * yup > Para validar schema de um objeto de forma declarativa
 * multer > Para upload de arquivos
+* mongoose > Conexão com banco de dados Mongo
