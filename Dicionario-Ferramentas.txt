@@ -26,3 +26,4 @@ sempre que o arquivo for salvo.
 * Sentry.IO > Tratamento de exceções
 * express-async-errors > Para o express conseguir captar erros de métodos assincronos
 * youch > Tratamento de mensagens de erro
+* dotenv > Para uso de variáveis de ambiente

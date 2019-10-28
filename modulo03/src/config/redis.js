@@ -1,5 +1,5 @@
 export default {
-  host: 'redis-18175.c15.us-east-1-2.ec2.cloud.redislabs.com',
-  port: 18175,
-  password: '5bKjKrZP8zR8vthxZFn9q2iEsjHdzb1L',
+  host: process.env.REDIS_HOST,
+  port: process.env.REDIS_PORT,
+  password: process.env.REDIS_PASSWORD,
 };
