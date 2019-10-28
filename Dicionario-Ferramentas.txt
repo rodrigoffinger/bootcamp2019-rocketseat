@@ -23,3 +23,6 @@ sempre que o arquivo for salvo.
 * redis > banco de dados chave-valor em memória
 * redislabs > serviço de hospedagem de bancos redis gratuito
 * bee-queue > Background jobs no node (para filas de tarefas, etc)
+* Sentry.IO > Tratamento de exceções
+* express-async-errors > Para o express conseguir captar erros de métodos assincronos
+* youch > Tratamento de mensagens de erro
