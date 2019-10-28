@@ -1,4 +1,4 @@
-Ferramentas e bibliotecas usadas no bootcamp
+Ferramentas, bibliotecas e serviços usadas no bootcamp
 
 * express > Framework para desenvolvimento de apps web e api
 * Nodemon > Reload automático da aplicação durante o desenvolvimento
@@ -7,15 +7,19 @@ Ferramentas e bibliotecas usadas no bootcamp
 * prettier > Formatador de código. Funciona em conjunto com o eslint, 
 sendo possível configurá-lo para formatar o código e aplicar o padrão definido no eslint
 sempre que o arquivo for salvo.
-* Sequelize > ORM (Object-Relational Mapper)
+* Sequelize > ORM (Object-Relational Mapper), compatível com diversos bancos MySQL
 * mysql2 > Contexão com banco de dados MySQL
 * jsonwebtoken > Para geração de jwt para autenticação
 * bcryptjs > Para criptografar senhas antes de armazená-las
 * yup > Para validar schema de um objeto de forma declarativa
 * multer > Para upload de arquivos
 * mongoose > Conexão com banco de dados Mongo
+* Atlas > serviço de hospedagem de bancos mongo gratuito
 * nodemailer > Envio de e-mails
-* mailtrap > mock para envio de e-mails em ambiente dev
+* mailtrap > Serviço para envio de e-mails em ambiente dev
 * handlebars > Templates html
 * express-handlebars > Integração de templates handlebars com o express
 * nodemailer-express-handlebars > Integração de templates handlebars com o express
+* redis > banco de dados chave-valor em memória
+* redislabs > serviço de hospedagem de bancos redis gratuito
+* bee-queue > Background jobs no node (para filas de tarefas, etc)
