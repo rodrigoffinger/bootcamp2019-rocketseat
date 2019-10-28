@@ -14,3 +14,8 @@ sempre que o arquivo for salvo.
 * yup > Para validar schema de um objeto de forma declarativa
 * multer > Para upload de arquivos
 * mongoose > Conexão com banco de dados Mongo
+* nodemailer > Envio de e-mails
+* mailtrap > mock para envio de e-mails em ambiente dev
+* handlebars > Templates html
+* express-handlebars > Integração de templates handlebars com o express
+* nodemailer-express-handlebars > Integração de templates handlebars com o express
