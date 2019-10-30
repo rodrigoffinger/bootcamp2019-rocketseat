@@ -27,3 +27,12 @@ sempre que o arquivo for salvo.
 * express-async-errors > Para o express conseguir captar erros de métodos assincronos
 * youch > Tratamento de mensagens de erro
 * dotenv > Para uso de variáveis de ambiente
+
+* @babel/core > Compilador de JS. Permite escrever JS com sua sintaxe mais recente, 
+compilando o código para uma versão mais antiga e onipresente ao executar
+** @babel/preset-env > Altera funcionalidades do JS que o navegador não entende (funcionalidades mais recentes)
+** @babel/preset-react > Mesmo objetivo do preset-env, voltado à funcionalidades do react (jsx, etc)
+* babel-loader >
+* webpack webpack-cli >
+* webpack-dev-server
+* react react-dom >
