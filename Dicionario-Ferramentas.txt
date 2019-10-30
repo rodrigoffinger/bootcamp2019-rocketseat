@@ -32,7 +32,14 @@ sempre que o arquivo for salvo.
 compilando o código para uma versão mais antiga e onipresente ao executar
 ** @babel/preset-env > Altera funcionalidades do JS que o navegador não entende (funcionalidades mais recentes)
 ** @babel/preset-react > Mesmo objetivo do preset-env, voltado à funcionalidades do react (jsx, etc)
-* babel-loader >
+** @babel/plugin-proposal-class-properties > 
+* babel-loader > 
+* style-loader > Permite importar css dentro de componentes
+* css-loader > Permite importar arquivos css dentro de outro arquivo css
+* file-loader > Permite importar arquivos diversos, como imagens
 * webpack webpack-cli >
-* webpack-dev-server
-* react react-dom >
+* webpack-dev-server > Permite rodar o webpack em ambiente de desenvolvimento, compilando e recarregando automaticamente
+os arquivos após alterações.
+* react > Dependência básica do React, usada tanto pelo web quanto mobile
+* react-dom > Dependência web do React
+* prop-types > 

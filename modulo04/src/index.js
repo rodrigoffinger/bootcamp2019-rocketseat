@@ -1,3 +1,6 @@
-const soma = (a, b) => a + b;
+import React from "react";
+import { render } from "react-dom";
 
-alert(soma(2, 3));
+import App from "./App";
+
+render(<App></App>, document.getElementById("app"));
