@@ -4,7 +4,7 @@ Ferramentas, bibliotecas e serviços usadas no bootcamp
 * Nodemon > Reload automático da aplicação durante o desenvolvimento
 * Sucrase > Compilador de JS. Alternativa mais performática em relação ao babel
 * eslint > Ferramenta de análise de código, para ajudar a manter um padrão de estilo de código
-* prettier > Formatador de código. Funciona em conjunto com o eslint, 
+* prettier > Formatador de código. Funciona em conjunto com o eslint,
 sendo possível configurá-lo para formatar o código e aplicar o padrão definido no eslint
 sempre que o arquivo for salvo.
 * Sequelize > ORM (Object-Relational Mapper), compatível com diversos bancos MySQL
@@ -28,12 +28,12 @@ sempre que o arquivo for salvo.
 * youch > Tratamento de mensagens de erro
 * dotenv > Para uso de variáveis de ambiente
 
-* @babel/core > Compilador de JS. Permite escrever JS com sua sintaxe mais recente, 
+* @babel/core > Compilador de JS. Permite escrever JS com sua sintaxe mais recente,
 compilando o código para uma versão mais antiga e onipresente ao executar
 ** @babel/preset-env > Altera funcionalidades do JS que o navegador não entende (funcionalidades mais recentes)
 ** @babel/preset-react > Mesmo objetivo do preset-env, voltado à funcionalidades do react (jsx, etc)
-** @babel/plugin-proposal-class-properties > 
-* babel-loader > 
+** @babel/plugin-proposal-class-properties >
+* babel-loader >
 * style-loader > Permite importar css dentro de componentes
 * css-loader > Permite importar arquivos css dentro de outro arquivo css
 * file-loader > Permite importar arquivos diversos, como imagens
@@ -42,4 +42,8 @@ compilando o código para uma versão mais antiga e onipresente ao executar
 os arquivos após alterações.
 * react > Dependência básica do React, usada tanto pelo web quanto mobile
 * react-dom > Dependência web do React
-* prop-types > 
+* prop-types >
+
+* yarn create react-app modulo05 > Cria um projeto com Webpack, babel e etc configurados
+** Ao usar este "scaffolding", o webpack e o babel vem configurados através do pacote react-scripts
+** prettier eslint-config-prettier eslint-plugin-prettier babel-eslint
