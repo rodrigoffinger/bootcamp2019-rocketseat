@@ -47,3 +47,4 @@ os arquivos após alterações.
 * yarn create react-app modulo05 > Cria um projeto com Webpack, babel e etc configurados
 ** Ao usar este "scaffolding", o webpack e o babel vem configurados através do pacote react-scripts
 ** prettier eslint-config-prettier eslint-plugin-prettier babel-eslint
+* react-router-dom > Roteamento de páginas no front-end
