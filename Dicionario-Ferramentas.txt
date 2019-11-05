@@ -49,3 +49,4 @@ os arquivos após alterações.
 ** prettier eslint-config-prettier eslint-plugin-prettier babel-eslint
 * react-router-dom > Roteamento de páginas no front-end
 * styled-components >
+* react-icons >
