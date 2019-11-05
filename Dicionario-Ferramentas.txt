@@ -48,5 +48,6 @@ os arquivos após alterações.
 ** Ao usar este "scaffolding", o webpack e o babel vem configurados através do pacote react-scripts
 ** prettier eslint-config-prettier eslint-plugin-prettier babel-eslint
 * react-router-dom > Roteamento de páginas no front-end
-* styled-components >
-* react-icons >
+* styled-components > Permite criar tags/componentes estilizados
+* react-icons > pacote de ícones
+* axios > lib para requisições à APIs
