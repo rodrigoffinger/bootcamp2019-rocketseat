@@ -51,3 +51,4 @@ os arquivos após alterações.
 * styled-components > Permite criar tags/componentes estilizados
 * react-icons > pacote de ícones
 * axios > lib para requisições à APIs
+* prop-types
