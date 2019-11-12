@@ -55,7 +55,9 @@ os arquivos após alterações.
 
 
 * Reactotron > Ferramenta de debug para react native e react
+** adb reverse tcp:9090 tcp:9090 (para funcionar no emulador e android via usb)
 * reactotron-react-native
+* react-navigation https://reactnavigation.org/docs/en/getting-started.html
 
 Dicas
 yarn install --network-timeout 1000000 (quando em uma conexão lenta)
