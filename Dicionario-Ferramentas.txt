@@ -52,3 +52,10 @@ os arquivos após alterações.
 * react-icons > pacote de ícones
 * axios > lib para requisições à APIs
 * prop-types
+
+
+* Reactotron > Ferramenta de debug para react native e react
+* reactotron-react-native
+
+Dicas
+yarn install --network-timeout 1000000 (quando em uma conexão lenta)
