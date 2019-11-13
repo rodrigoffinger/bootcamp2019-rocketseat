@@ -59,6 +59,7 @@ os arquivos após alterações.
 * reactotron-react-native
 * react-navigation https://reactnavigation.org/docs/en/getting-started.html
 * react-native-vector-icons
+* @react-native-community/async-storage
 
 Dicas
 yarn install --network-timeout 1000000 (quando em uma conexão lenta)
