@@ -64,3 +64,4 @@ os arquivos após alterações.
 Dicas
 yarn install --network-timeout 1000000 (quando em uma conexão lenta)
 react-native run-android
+cd android && ./gradlew clean
