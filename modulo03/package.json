@@ -20,7 +20,7 @@
     "mongoose": "^5.7.7",
     "multer": "^1.4.2",
     "mysql2": "^1.6.5",
-    "nodemailer": "^6.3.1",
+    "nodemailer": "^6.4.16",
     "nodemailer-express-handlebars": "^3.1.0",
     "sequelize": "^5.10.1",
     "youch": "^2.0.10",
